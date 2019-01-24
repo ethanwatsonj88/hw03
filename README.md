@@ -1,3 +1,5 @@
+To evaluate expressions, there must be a space between each operator/operand.
+
 # Practice
 
 To start your Phoenix server:
